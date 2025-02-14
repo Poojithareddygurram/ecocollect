@@ -12,7 +12,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-2">
             <RecycleIcon className="h-8 w-8" />
-            <span className="text-2xl font-bold">EcoCollect</span>
+            <span className="text-2xl font-bold">EcoSphere</span>
           </Link>
           
           {/* Desktop Navigation */}
