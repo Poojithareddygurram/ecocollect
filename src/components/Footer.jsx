@@ -31,7 +31,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-2">
                 <Mail className="h-5 w-5" />
-                <span className="text-gray-400">contact@ecocollect.com</span>
+                <span className="text-gray-400">poojithareddygurram@gmail.com</span>
               </li>
               <li className="flex items-center space-x-2">
                 <MapPin className="h-5 w-5" />
@@ -57,7 +57,7 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} EcoCollect. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} EcoSphere. All rights reserved.</p>
         </div>
       </div>
     </footer>
